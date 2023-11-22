@@ -1,4 +1,5 @@
-# Amigalinks
+# Amiga68k - Links
+
 <br>
 <a href="https://www.emeraldmines.net/blog/default.asp?msgid=1544" target="_blank">Emerald Web: Emerald Caves bietet 64 neue Level</a> - 22.11.2023
 <br>
