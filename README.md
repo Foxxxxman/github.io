@@ -1,7 +1,7 @@
 # Amiga68k - Links
 
 <br>
-<a href="https://www.emeraldmines.net/blog/default.asp?msgid=1544" target="_blank">Emerald Web: Emerald Caves bietet 64 neue Level</a> - 22.11.2023
+<a href="https://www.emeraldmines.net/blog/default.asp?msgid=1544" target="_blank">Emerald Web: Emerald Caves neue Level und Browserspiel</a> - 22.11.2023
 <br>
 <a href="https://tetracorp.github.io/k240/history/development.html" target="_blank">K240 Amiga Webseite </a> - 19.11.2023
 <br>
