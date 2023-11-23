@@ -1,4 +1,5 @@
 # Amiga68k - Links
+https://web.archive.org/web/20071018174048/http://www.gods-country.de/gods/gods_frames.php?lang=ger&level=1
 <br>
 <a href="https://amiga.lychesis.net/" target="_blank">Amiga Grafik Archive</a> - 22.11.2023
 <br>
