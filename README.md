@@ -13,7 +13,7 @@
 <br>
 <a href="https://theotheoderich.itch.io/settle-the-world" target="_blank">Settle the World Webseite </a> - 21.11.2023
 <br>
-<a href="https://www.tentakelvilla.de" target="_blank">TentacleVilla - Lucas Arts FanePage</a> - 21.11.2023
+<a href="https://www.tentakelvilla.de" target="_blank">TentacleVilla - Lucas Arts FanePage</a> - 24.11.2023
 <br>
 <a href="https://eab.abime.net/showthread.php?p=1087745" target="_blank">Turrican 2 CDTV Level Editor</a> - 21.11.2023
 <br>
